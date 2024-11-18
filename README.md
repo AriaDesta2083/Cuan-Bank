@@ -1,5 +1,3 @@
-Berikut adalah **README.md** terbaru tanpa bagian instalasi:  
-
 ---
 
 # Cuan Bank - Backend  
