@@ -35,7 +35,7 @@
 - **Framework**: [Laravel](https://laravel.com/)  
 - **Database**: MySQL  
 - **Payment Gateway**: [Midtrans](https://midtrans.com/)  
-- **Autentikasi**: JSON Web Token (JWT Auth)  
+- **Autentikasi**: [JSON Web Token (JWT)](https://github.com/tymondesigns/jwt-auth)  
 
 ---
 
