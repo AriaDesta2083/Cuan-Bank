@@ -1,7 +1,7 @@
 
 # Cuan Bank  
 
-**Cuan Bank | Backend** adalah aplikasi pengelolaan keuangan pribadi. Repository ini berisi kode backend yang dikembangkan menggunakan Laravel untuk menyediakan API yang aman dan efisien.  
+**Cuan Bank ** adalah aplikasi pengelolaan keuangan pribadi. Repository ini berisi kode backend yang dikembangkan menggunakan Laravel untuk menyediakan API yang aman dan efisien. 🚀 
 
 ---
 
@@ -33,7 +33,7 @@
 ## 🛠️ Teknologi yang Digunakan  
 
 - **Framework**: [Laravel](https://laravel.com/)  
-- **Database**: MySQL  
+- **Database**: [MySql](https://www.mysql.com/)
 - **Payment Gateway**: [Midtrans](https://midtrans.com/)  
 - **Autentikasi**: [JSON Web Token (JWT)](https://github.com/tymondesigns/jwt-auth)  
 
