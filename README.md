@@ -1,7 +1,7 @@
 
 # Cuan Bank  
 
-**Cuan Bank ** adalah aplikasi pengelolaan keuangan pribadi. Repository ini berisi kode backend yang dikembangkan menggunakan Laravel untuk menyediakan API yang aman dan efisien. 🚀 
+**Cuan Bank** adalah aplikasi pengelolaan keuangan pribadi. Repository ini berisi kode backend yang dikembangkan menggunakan Laravel untuk menyediakan API yang aman dan efisien. 🚀 
 
 ---
 
